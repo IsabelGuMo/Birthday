@@ -18,12 +18,25 @@ body {
   }
   h2 {
     position: absolute;
-    top: 80%;
+    top: 60%;
     left: 50%;
     transform: translate(-50%, -50%);
     color: #F4F6F7;
     font-family: "Impact,Charcoal,sans-serif";
     font-size: 5em;
+    font-weight: 800;
+    -webkit-user-select: none;
+    user-select: none;
+  }
+
+  p {
+    position: absolute;
+    top: 80%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: #F4F6F7;
+    font-family: "Impact,Charcoal,sans-serif";
+    font-size: 3em;
     font-weight: 800;
     -webkit-user-select: none;
     user-select: none;
