@@ -6,22 +6,23 @@ body {
   canvas{display:block}
   h1 {
     position: absolute;
-    top: 40%;
+    top: 30%;
     left: 50%;
     transform: translate(-50%, -50%);
-    color: #F4F5F7;
+    color: #A8D1D1;
     font-family: "Impact,Charcoal,sans-serif";
     font-size: 5em;
     font-weight: 800;
     -webkit-user-select: none;
     user-select: none;
   }
+
   h2 {
     position: absolute;
-    top: 60%;
+    top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
-    color: #F4F6F7;
+    color: #FD8A8A;
     font-family: "Impact,Charcoal,sans-serif";
     font-size: 5em;
     font-weight: 800;
@@ -31,12 +32,12 @@ body {
 
   p {
     position: absolute;
-    top: 80%;
+    top: 70%;
     left: 50%;
     transform: translate(-50%, -50%);
-    color: #F4F6F7;
+    color: #F1F7B5;
     font-family: "Impact,Charcoal,sans-serif";
-    font-size: 3em;
+    font-size: 2.5em;
     font-weight: 800;
     -webkit-user-select: none;
     user-select: none;
